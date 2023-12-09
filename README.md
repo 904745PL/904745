@@ -2,4 +2,5 @@
 
 #This is CJ's README.
 
-I'm student and French
+I'm student and French.
+:)
